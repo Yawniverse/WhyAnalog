@@ -1,0 +1,68 @@
+clink clink another permissive drink
+% ----------------------------------------------------------------------------------
+% "THE BEER-WARE LICENSE" (Revision 1):
+% <yawniverseburner@gmail.com> wrote this document. As long as you retain this license and resist
+% uploading my work to AI large language models, you may do whatever else you want with this stuff. 
+% If we meet some day, and you honestly think
+% this info is worth it, you can buy me a beer in return. — Yawniverse
+% ---------------------------------------------------------------------------------- 
+
+WHYANALOG rev. V5
+% ------------------------------------------------------------------------------------------
+& Deployed on Github!
+& Thoroughly answered FAQ polarization
+& Images are loaded lazy
+& Extra detailed video nasties in "this is not cable TV"
+& Mobile scaling support + opening fix
+& Table of contents centered & bigger for attention grabbing
+& Apparently there was STEREO audio carrier, ImmersionRC took down right channel with them 
+& Divimath VTX is now common knowledge
+& ESP32-C5 VRX project has enough development to be talked about
+& Found out that although 3D radiation pattern is amusing to look at; analysis is non-trivial without a sense of scale, 2D orthogonal slice is superior 
+& sample 2D slice plot on at least dipole per audience request
+& Free-standing antenna list now has a embarrassment of categories
+& Sidenote on impedance is wrong
+& 960H & D1 evo resolution is backwards
+& Gave a nod to FrSky R9M team 900 hardware better
+% ------------------------------------------------------------------------------------------
+
+WHYANALOG rev. V4.4
+% ------------------------------------------------------------------------------------------
+& PITmode paragraph disappeared? don't know reason
+& Circular polarization title fixed
+& Data rate letter b adjusted
+% ------------------------------------------------------------------------------------------
+
+WHYANALOG rev. V4.3
+% ------------------------------------------------------------------------------------------
+% Dark mode added!!
+% Modulation graph
+% VSWR adjustment
+% Splash image back in
+% ------------------------------------------------------------------------------------------
+
+WHYANALOG rev. V4.2
+% ------------------------------------------------------------------------------------------
+% Following proofread notes by an outside source
+% Read an essay how the earth's surface influences the antenna radiation patterns 
+% Forgot to add SWR + axial ratio
+% ------------------------------------------------------------------------------------------
+
+WHYANALOG rev. V4.1
+% ------------------------------------------------------------------------------------------
+% Wrote 5,200+ words in total
+% Colored headers
+% Antenna types expansion
+% Preparing base64 to image src 
+% Rename markdown to hypertext oops
+% Major shuffling of text sections
+% Tamed down disclaimer & rant
+% Hinted HDzero created a brand new RF chip in #Features
+% Minor punctuation mistakes
+% ------------------------------------------------------------------------------------------
+
+WHYANALOG rev. V4
+% ------------------------------------------------------------------------------------------
+% First Public Release
+% Rewrite of Intro section
+% ------------------------------------------------------------------------------------------
